@@ -4,7 +4,7 @@ const RowData = [
     url: '/trending/all/day',
   },
   {
-    title: 'Oridinals',
+    title: 'Originals',
     url: '/discover/movie?sort_by=popularity.desc',
   },
   {
