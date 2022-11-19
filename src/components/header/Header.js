@@ -7,16 +7,13 @@ function Header() {
       <div className='header_content'>
         <div className='header_billboard'>
           <img
-            src='https://occ-0-2482-3646.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABcZdjcnDphK1TiPkNt19wMxyqql90YEzja-IMmQi9UeArdtQC1CC_yNRYPmTUlb6UXo4UlbH9SAPPZWwwzDdVEwmIRwFQCVAwYzcLP2jRu_p.webp?r=e02'
+            src='https://occ-0-4995-2186.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABSaeeiOS0-Bev4o47JPYGSkzSW1br7TPiTFJDudgvRo1N5KH8fIXuX_ZMz915ojYUX5YR0Y1Xl17RzA0dfr300dI4gFMN4QV1iK3c8t9ZXV-2-vyClv8w2bWZD85AkiVb9m2Ul95YUyQ9O28msU4VxLeKrO1gwjnLs569jQaYCcKTwFMF0ZzCg.png?r=740 '
             alt='billboard'
           />
         </div>
         <h4 className='header_desc'>
-          "Yeon-du asks her best friend Bora to collect all the information she can about
-          Baek Hyun-jin while she is away in the U.S. for heart surgery. Bora decides to
-          get close to Baek's best friend, Pung Woon-ho first. However, Bora's clumsy plan
-          unfolds in an unexpected direction. In 1999, a year before the new century,
-          Bora, who turns seventeen, falls into the fever of first love."
+          When three working-class teens enroll in an exclusive private school in Spain, the clash between them and the wealthy students leads to murder.
+          With Love - FaizuOffl
         </h4>
         <div className='header_buttons'>
           <button className='header_button play_button'>

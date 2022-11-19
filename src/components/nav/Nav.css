@@ -44,7 +44,6 @@ section {
 }
 
 .nav_right {
-    color: #fff;
     display: flex;
     align-items: center;
     justify-content: space-between;
