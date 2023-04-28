@@ -1,1 +1,1 @@
-<h1>An Webapp Netflix Application Using Node JS Through VS Code</hi>
+<h1>An Webapp Netflix Application Using Node JS</hi>
